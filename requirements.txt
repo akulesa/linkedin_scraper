@@ -1,8 +1,0 @@
-name: linkedin_scraper
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  -selenium
-  -requests
-  -lxml
